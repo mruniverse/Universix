@@ -1,0 +1,1 @@
+Arquivo confidencial. O núcleo acessou o Arquivo sem nenhuma interação direta com o modo usuario! 
